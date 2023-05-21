@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\Mohamed Aziz Karoui\Desktop\Workshop CAO Electronique\Projet CAO Battery 3.7v\PCB_Project Battery 3.7v\PCB1.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

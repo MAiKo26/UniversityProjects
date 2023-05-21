@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=U2 Old Footprint=DIP16 New Footprint=PowerDIP-16_STM
+Change Component Footprint: Designator=U1 Old Footprint=PIC18F-P40 New Footprint=PDIP40_600MC_MCH
+Change Component Footprint: Designator=R1 Old Footprint=Res New Footprint=SMD R1206
+Change Component Comment: Designator=R1 Old Comment=Res2 New Comment=RESET
+Change Pin Designator/Name:  Old Designator=U1-23 Old Name=RC4/SDI/SDA New Designator =RD4/PSP4 New Name=27
+Change Pin Designator/Name:  Old Designator=U1-24 Old Name=RC5/SDO New Designator =RD5/PSP5/P1B New Name=28
+Change Pin Designator/Name:  Old Designator=U1-27 Old Name=RD4/PSP4 New Designator =RC4/SDI/SDA New Name=23
+Change Pin Designator/Name:  Old Designator=U1-28 Old Name=RD5/PSP5/P1B New Designator =RC5/SDO New Name=24
+Change Pin Designator/Name:  Old Designator=U2-11 Old Name=OUT3 New Designator =OUT4 New Name=14
+Change Pin Designator/Name:  Old Designator=U2-14 Old Name=OUT4 New Designator =OUT3 New Name=11

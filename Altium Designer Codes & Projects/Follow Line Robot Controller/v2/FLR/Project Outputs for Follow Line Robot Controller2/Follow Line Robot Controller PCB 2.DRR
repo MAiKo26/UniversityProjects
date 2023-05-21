@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Follow Line Robot Controller PCB 2.PcbDoc   22/04/2022  2:55:08 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Follow Line Robot Controller PCB 2.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.711mm)                                           Round             3         PTH        3.60inch (91.41mm)
+T2      31mil (0.787mm)                                           Round             6         PTH        3.29inch (83.58mm)
+T3      33mil (0.85mm)                                            Round             2         PTH        0.40inch (10.16mm)
+T4      34mil (0.864mm)                                           Round             2         PTH        0.20inch (5.08mm)
+T5      35mil (0.889mm)                                           Round             3         PTH        0.42inch (10.76mm)
+T6      35mil (0.9mm)                                             Round             90        PTH        22.16inch (562.84mm)
+T7      43mil (1.1mm)                                             Round             4         PTH        0.40inch (10.16mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              110
+
+Total Processing Time (hh:mm:ss) : 00:00:01

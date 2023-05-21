@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [TP7.PrjPcb]
+   Generated File[PCB_Carte_PIC18F.TXT]
+   Generated File[PCB_Carte_PIC18F.LDP]
+   Generated File[PCB_Carte_PIC18F.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 3:27:49 PM On 02/04/2022

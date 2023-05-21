@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Follow Line Robot Controller2.PrjPcb]
+   Generated File[Follow Line Robot Controller PCB 2.TXT]
+   Generated File[Follow Line Robot Controller PCB 2.LDP]
+   Generated File[Follow Line Robot Controller PCB 2.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 2:55:09 PM On 22/04/2022

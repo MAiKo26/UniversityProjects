@@ -1,0 +1,14 @@
+img = imread('fleur.jpeg'); figure; imshow(img); 
+imghsv = rgb2hsv(img); figure; 
+imshow(imghsv);
+imghsv(100:200,300:400,1) = 0.7;
+imgrgb = hsv2rgb(imghsv); figure; imshow(imgrgb); 
+imghsv = rgb2hsv(img); figure; 
+imshow(imghsv);
+imghsv(100:200,300:400,2) = 0;
+imgrgb = hsv2rgb(imghsv); figure; imshow(imgrgb); 
+imghsv = rgb2hsv(img); figure; 
+imshow(imghsv);
+imghsv(100:200,300:400,3) = 0.3;
+imgrgb = hsv2rgb(imghsv); figure; 
+imshow(imgrgb);
