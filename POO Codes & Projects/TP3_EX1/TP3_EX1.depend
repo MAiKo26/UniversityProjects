@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1544704578 source:e:\enseignement\p.o.o\2019-2020\code\tp3_ex1\jeu.cpp
+	"Jeu.h"
+
+1572847458 e:\enseignement\p.o.o\2019-2020\code\tp3_ex1\jeu.h
+	<string>
+
+1572847493 source:e:\enseignement\p.o.o\2019-2020\code\tp3_ex1\client.cpp
+	"Client.h"
+
+1572847290 e:\enseignement\p.o.o\2019-2020\code\tp3_ex1\client.h
+	<iostream>
+	"Jeu.h"
+
+1572847308 source:e:\enseignement\p.o.o\2019-2020\code\tp3_ex1\main.cpp
+	<iostream>
+	"Client.h"
+	<vector>
+

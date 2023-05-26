@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1572863943 source:e:\enseignement\p.o.o\2019-2020\code\tp3_ex2\client.cpp
+	"Client.h"
+
+1572866124 e:\enseignement\p.o.o\2019-2020\code\tp3_ex2\client.h
+	<string>
+	<iostream>
+
+1572863462 source:e:\enseignement\p.o.o\2019-2020\code\tp3_ex2\main.cpp
+	<iostream>
+	"Pharmacie.h"
+
+1572866104 source:e:\enseignement\p.o.o\2019-2020\code\tp3_ex2\medicament.cpp
+	"Medicament.h"
+
+1572866139 e:\enseignement\p.o.o\2019-2020\code\tp3_ex2\medicament.h
+	<string>
+	<iostream>
+
+1572866271 source:e:\enseignement\p.o.o\2019-2020\code\tp3_ex2\pharmacie.cpp
+	"Pharmacie.h"
+
+1572863895 e:\enseignement\p.o.o\2019-2020\code\tp3_ex2\pharmacie.h
+	"Client.h"
+	"Medicament.h"
+	<iostream>
+

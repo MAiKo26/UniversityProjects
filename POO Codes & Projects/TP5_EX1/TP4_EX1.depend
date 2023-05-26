@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1574025803 source:e:\enseignement\p.o.o\2019-2020\code\tp4_ex1\main.cpp
+	<iostream>
+	"Carre.h"
+	"Triangle.h"
+
+1573822576 e:\enseignement\p.o.o\2019-2020\code\tp4_ex1\carre.h
+	"Figure.h"
+	<iostream>
+
+1543496036 e:\enseignement\p.o.o\2019-2020\code\tp4_ex1\figure.h
+	<iostream>
+
+1543414875 e:\enseignement\p.o.o\2019-2020\code\tp4_ex1\triangle.h
+	"Figure.h"
+	<iostream>
+
