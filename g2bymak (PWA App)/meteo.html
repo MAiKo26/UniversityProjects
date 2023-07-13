@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="description" content="G2 By MAK" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <meta name="keywords" content="G2 " />
+    <meta name="author" content="Mohamed Aziz Karoui" />
+    <link rel="stylesheet" href="./css/bootstrap.min.css" />
+    <link rel="stylesheet" href="./css/style.css" />
+    <link rel="icon" href="./res/favicon.ico" />
+    <link rel="manifest" href="./manifest.json" />
+
+    <title>G2 APP BY MAK</title>
+  </head>
+
+  <body id="bg" class="bg-secondary">
+    <script>
+      if ("serviceWorker" in navigator) {
+        // Register service worker
+        navigator.serviceWorker
+          .register("sw.js")
+          .then(function (reg) {
+            console.log("SW registration succeeded. Scope is " + reg.scope);
+          })
+          .catch(function (err) {
+            console.error("SW registration failed with error " + err);
+          });
+      }
+    </script>
+
+    <nav class="navbar navbar-dark bg-dark">
+      <a class="navbar-brand" href="#">G2 Esports</a>
+
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-toggle="collapse"
+        data-target="#navbarText"
+        aria-controls="navbarText"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+      >
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarText">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="index.html">Home </a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="officiel.html">Officiel Site</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="time.html">Time API</a>
+          </li>
+          <li class="nav-item active">
+            <a class="nav-link" href="meteo.html"
+              >Meteo API<span class="sr-only">(current)</span></a
+            >
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+    <div class="container">
+      <div class="row">
+        <div class="col"><br /><br /></div>
+      </div>
+      <div id="meteo" class="row"></div>
+    </div>
+
+    <script src="./js/jquery.min.js"></script>
+    <script src="./js/popper.min.js"></script>
+    <script src="./js/bootstrap.min.js"></script>
+    <script src="./js/font.js"></script>
+    <script src="./js/appmeteo.js"></script>
+  </body>
+</html>
